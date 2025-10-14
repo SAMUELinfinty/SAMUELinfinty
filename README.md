@@ -8,8 +8,8 @@
 ### I'm a passionate about Cybersecurity and AI.Where i think i perform my 100%
 
 - 🔭 I’m currently a student at Coimbatore Institute of Technology 
-- 🌱 I’m currently learning Cybersecurity and AI
-- 👯 I’m looking to collaborate on Security AI projects
+- 🌱 I’m currently learning Cybersecurity and AI and projects
+- 👯 I’m looking to collaborate on Security AI projects and IOT projects
 - 💬 Ask me about Cybersecurity,networking,python,AI
 - 📫 How to reach me: samueldharn51@gmail.com or [LinkedIn](https://www.linkedin.com/in/samuel-dhamodharn-29732333b/)
 - 📰 You can read my blogs: [Medium](https://medium.com/@samueldharn51)
