@@ -5,6 +5,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=GenAI+Engineer;AI+Safety+%26+Governance;Red+Team+%7C+Build+%7C+Secure" alt="Animated typing header" />
 </a>
 
+
+
 <!-- Header banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7B2FF7&height=180&section=header&text=Welcome%20to%20Samuel's%20Profile&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Profile header banner" />
 
@@ -51,35 +53,6 @@
 
 <img src="https://skillicons.dev/icons?i=python,linux,git,bash" />
 
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SAMUELinfinty&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMUELinfinty&layout=compact&theme=radical&hide_border=true" width="35%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SAMUELinfinty&theme=radical&hide_border=true" width="49%" />
-
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SAMUELinfinty&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
-</div>
-
----
-
-### 🔥 Contribution Heatmap
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SAMUELinfinty&theme=react-dark&hide_border=true&area=true" width="100%"/>
 </div>
 
 ---
