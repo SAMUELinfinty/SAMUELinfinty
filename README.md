@@ -1,19 +1,12 @@
 <div align="center">
 
-
-
-
 <!-- Animated typing header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=50&lines=GenAI+Engineer;AI+Safety+%26+Governance;Red+Team+%7C+Build+%7C+Secure" alt="Animated typing header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=800&height=70&lines=Hi%2C+I'm+Samuel!;GenAI+Engineer+%7C+AI+Safety+Enthusiast" alt="Animated introduction" />
 </a>
 
-
-
-
-
 <!-- Header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7B2FF7&height=180&section=header&text=Welcome%20to%20Samuel's%20Profile&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Profile header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7B2FF7&height=180&section=header&text=Welcome%20to%20Samuel%27s%20Profile&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Welcome banner" />
 
 </div>
 
@@ -65,7 +58,7 @@
 ### 🧑‍💻 Live Coding Status
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1000&color=7B2FF7&center=true&vCenter=true&width=600&lines=Red+Teaming+an+LLM...;Testing+a+Guardrail...;Building+a+RAG+Pipeline...;Mapping+an+AI+Threat+Model..." alt="Live coding status" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1000&color=7B2FF7&center=true&vCenter=true&width=700&height=35&lines=Red+Teaming+an+LLM...;Testing+a+Guardrail...;Building+safer+AI+systems..." alt="Animated coding status" />
 </div>
 
 ---
@@ -76,7 +69,7 @@
 
 <!-- Animated learning focus -->
 <a href="https://github.com/SAMUELinfinty">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=780&height=45&lines=Learning+to+build+safer+GenAI+systems...;Exploring+AI+Governance+%26+Red+Teaming...;Designing+reliable+RAG+pipelines...;Orchestrating+AI+Agents+with+LangGraph...;Strengthening+Guardrails+%26+Safety+Filters..." alt="Currently learning animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=800&height=50&lines=Learning+to+build+safer+GenAI;Exploring+AI+governance+and+red+teaming" alt="Animated learning focus" />
 </a>
 
 <br />
@@ -106,7 +99,7 @@
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,100:00F7FF&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,100:00F7FF&height=100&section=footer" alt="Footer banner"/>
 </div>
 
 <div align="center">
