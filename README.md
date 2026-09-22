@@ -2,11 +2,13 @@
 
 <!-- Animated typing header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=800&height=70&lines=Hi%2C+I'm+Samuel!;GenAI+Engineer+%7C+AI+Safety+Enthusiast" alt="Animated introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Hi+there%2C+I'm+Samuel+%F0%9F%91%8B;GenAI+Red+Teamer+%F0%9F%9B%A1%EF%B8%8F;GenAI+Governance+Learner+%F0%9F%93%9C;Building+RAG+%2B+Agents+%2B+Guardrails+%F0%9F%A4%96" alt="Typing SVG" />
 </a>
 
+<br/>
+
 <!-- Header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7B2FF7&height=180&section=header&text=Welcome%20to%20Samuel%27s%20Profile&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Welcome banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7B2FF7&height=180&section=header&text=Welcome%20to%20Samuel's%20Profile&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 </div>
 
@@ -55,36 +57,31 @@
 
 ---
 
-### 🧑‍💻 Live Coding Status
+### 📊 GitHub Stats
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1000&color=7B2FF7&center=true&vCenter=true&width=700&height=35&lines=Red+Teaming+an+LLM...;Testing+a+Guardrail...;Building+safer+AI+systems..." alt="Animated coding status" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=SAMUELinfinty&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMUELinfinty&layout=compact&theme=radical&hide_border=true" width="35%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SAMUELinfinty&theme=radical&hide_border=true" width="49%" />
+
 </div>
 
 ---
 
+
 ### 🎯 Currently Learning
 
-<div align="center">
-
-<!-- Animated learning focus -->
-<a href="https://github.com/SAMUELinfinty">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=800&height=50&lines=Learning+to+build+safer+GenAI;Exploring+AI+governance+and+red+teaming" alt="Animated learning focus" />
-</a>
-
-<br />
-
-<img src="https://img.shields.io/badge/GenAI%20Governance-■■■■■■■□□□-4B0082?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI%20Red%20Teaming-■■■■■■□□□□-8B0000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RAG%20Pipelines-■■■■■■■■□□-00B4D8?style=for-the-badge" />
-<br />
-<img src="https://img.shields.io/badge/AI%20Agents-■■■■■■■□□□-FF6B6B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Guardrails-■■■■■□□□□□-2E294E?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Vector%20Databases-■■■■□□□□□□-7B2FF7?style=for-the-badge" />
-<br />
-<img src="https://img.shields.io/badge/LangChain%20%26%20LangGraph-■■■□□□□□□□-1C3C3C?style=for-the-badge" />
-
-</div>
+```text
+[■■■■■■■□□□] GenAI Governance
+[■■■■■■□□□□] AI Red Teaming
+[■■■■■■■■□□] RAG Pipelines
+[■■■■■■■□□□] AI Agents
+[■■■■■□□□□□] Guardrails & Safety Filters
+[■■■■□□□□□□] Vector Databases
+[■■■□□□□□□□] LangChain & LangGraph
+```
 
 ---
 
@@ -99,7 +96,7 @@
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,100:00F7FF&height=100&section=footer" alt="Footer banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,100:00F7FF&height=100&section=footer"/>
 </div>
 
 <div align="center">
