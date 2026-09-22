@@ -68,27 +68,27 @@
 
 ---
 
-### 📈 Contribution Graph
+### 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=redical&hide_border=true" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
 </div>
 
 ---
 
-### 🐍 Contribution Snake
+### 🔥 Contribution Heatmap
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" width="100%"/>
-</picture>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&area=true" width="100%"/>
 </div>
 
-> ⚙️ To generate `github-snake.svg` / `github-snake-dark.svg`, add the **[platane/snk](https://github.com/Platane/snk)** GitHub Action to your profile repo (`YOUR_USERNAME/YOUR_USERNAME`) — see setup note at the bottom.
+---
+
+### 🧑‍💻 Live Coding Status
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1000&color=7B2FF7&center=true&vCenter=true&width=600&lines=Red+Teaming+an+LLM...;Testing+a+Guardrail...;Debugging+a+RAG+pipeline...;Tracing+an+Agent+loop..." />
+</div>
 
 ---
 
