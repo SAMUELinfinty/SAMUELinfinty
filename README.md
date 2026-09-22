@@ -2,11 +2,11 @@
 
 <!-- Animated typing header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hi+there%2C+I'm+%5BSamuel%5D+%F0%9F%91%8B;Cybersecurity+Learner+%F0%9F%94%90;Full+Stack+Developer+%F0%9F%92%BB;GenAI+%2F+LLM+Builder+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hi+there%2C+I'm+Samuel+%F0%9F%91%8B;GenAI+Red+Teamer+%F0%9F%9B%A1%EF%B8%8F;GenAI+Governance+Learner+%F0%9F%93%9C;Building+RAG+%2B+Agents+%2B+Guardrails+%F0%9F%A4%96" alt="Typing SVG" />
 </a>
 
 <!-- Header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7B2FF7&height=180&section=header&text=Welcome%20to%20my%20Profile&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7B2FF7&height=180&section=header&text=Welcome%20to%20Samuel's%20Profile&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 </div>
 
@@ -14,13 +14,12 @@
 
 ### 🧭 About Me
 
-- 🔐 Currently **learning Cybersecurity** — exploring offensive & defensive security fundamentals
-- 💻 Learning **Full Stack Development** — solid grip on **Frontend** & **Backend**
-- 🤖 Diving deep into **Generative AI (GenAI)** — building LLM-powered applications
+- 🛡️ Learning **GenAI Governance & Red Teaming** — probing LLMs for safety, alignment, and policy gaps
+- 🤖 Building **modern GenAI systems**: **RAG pipelines**, **AI Agents**, and **Guardrails**
 - 🗄️ Comfortable with **MongoDB** & **PostgreSQL**
 - 🧠 Currently exploring **Vector Databases**, **LangChain**, and **LangGraph**
-- 🌱 Always building, breaking, and learning
-- ⚡ Fun fact: I debug faster than I sleep
+- 🌱 Focused on the intersection of **AI safety** and **applied GenAI engineering**
+- ⚡ Fun fact: I try to break AI systems before they break trust
 
 ---
 
@@ -28,13 +27,19 @@
 
 <div align="center">
 
-**Frontend**
+**GenAI Engineering**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+<img src="https://img.shields.io/badge/RAG-Pipelines-00B4D8?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20Agents-FF6B6B?style=for-the-badge&logo=robotframework&logoColor=white" />
+<img src="https://img.shields.io/badge/Guardrails-2E294E?style=for-the-badge&logo=shieldsdotio&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=graphql&logoColor=white" />
 
-**Backend**
+**GenAI Governance & Red Teaming**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" />
+<img src="https://img.shields.io/badge/AI%20Red%20Teaming-8B0000?style=for-the-badge&logo=hackthebox&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20Governance-4B0082?style=for-the-badge&logo=readthedocs&logoColor=white" />
+<img src="https://img.shields.io/badge/Prompt%20Injection%20Testing-B22222?style=for-the-badge&logo=owasp&logoColor=white" />
 
 **Databases**
 
@@ -42,16 +47,9 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Vector%20DB-Learning-7B2FF7?style=for-the-badge&logo=databricks&logoColor=white" />
 
-**GenAI / LLM Tooling**
+**Core Tools**
 
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=graphql&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI%20%2F%20LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" />
-
-**Cybersecurity**
-
-<img src="https://img.shields.io/badge/Cybersecurity-Learning-red?style=for-the-badge&logo=hackthebox&logoColor=white" />
-<img src="https://skillicons.dev/icons?i=linux,bash,git" />
+<img src="https://skillicons.dev/icons?i=python,linux,git,bash" />
 
 </div>
 
@@ -81,19 +79,27 @@
 ### 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" width="100%" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" width="100%"/>
+</picture>
+
 </div>
 
-> ⚙️ To activate the snake animation, add the **[platane/snk](https://github.com/Platane/snk)** GitHub Action to your profile repo — see setup note at the bottom.
+> ⚙️ To generate `github-snake.svg` / `github-snake-dark.svg`, add the **[platane/snk](https://github.com/Platane/snk)** GitHub Action to your profile repo (`YOUR_USERNAME/YOUR_USERNAME`) — see setup note at the bottom.
 
 ---
 
 ### 🎯 Currently Learning
 
 ```text
-[■■■■■■■■□□] Cybersecurity Fundamentals
-[■■■■■■■■■□] Frontend & Backend Development
-[■■■■■□□□□□] Generative AI / LLM Engineering
+[■■■■■■■□□□] GenAI Governance
+[■■■■■■□□□□] AI Red Teaming
+[■■■■■■■■□□] RAG Pipelines
+[■■■■■■■□□□] AI Agents
+[■■■■■□□□□□] Guardrails & Safety Filters
 [■■■■□□□□□□] Vector Databases
 [■■■□□□□□□□] LangChain & LangGraph
 ```
@@ -104,9 +110,9 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/samuel-dhamodharn/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://x.com/samueldharan51"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://leetcode.com/u/Samuel_infinty/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 
 </div>
 
