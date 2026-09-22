@@ -5,7 +5,7 @@
 
 <!-- Animated typing header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=GenAI+Engineer;AI+Safety+%26+Governance;Red+Team+%7C+Build+%7C+Secure" alt="Animated typing header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=50&lines=GenAI+Engineer;AI+Safety+%26+Governance;Red+Team+%7C+Build+%7C+Secure" alt="Animated typing header" />
 </a>
 
 
